@@ -1,5 +1,10 @@
 ## Main
 
+```bash
+touch ip.txt x.txt hack.txt
+python3 main.py
+```
+
 - [ x.txt ] : 情报资源 ( `x.threatbook.com` / `ti.qianxin.com` / `other` )
 - [ ip.txt ] : 访问记录 ( `hids` / `waf` / `edr` )
 - [ hack.txt ] : 黑客列表 ( waf 封禁 )
